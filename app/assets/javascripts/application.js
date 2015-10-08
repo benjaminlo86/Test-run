@@ -12,6 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require twitter/bootstrap
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require_tree .
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
